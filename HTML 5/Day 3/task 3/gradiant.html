@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gradient Circle with S inside</title>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="400" height="400"></canvas>
+    <script>
+      const canvas = document.getElementById('myCanvas');
+      const ctx = canvas.getContext('2d');
+      
+      // Draw the larger circle
+      const grad1 = ctx.createRadialGradient(150, 150, 50, 150, 150, 100);
+      grad1.addColorStop(0, 'white');
+      grad1.addColorStop(1, 'blue');
+      ctx.fillStyle = grad1;
+      ctx.beginPath();
+      ctx.arc(160, 125, 100, 0, Math.PI * 2);
+      ctx.fill();
+      
+      // Draw the smaller circle
+      const grad2 = ctx.createRadialGradient(150, 150, 25, 150, 150, 100);
+      grad2.addColorStop(0, 'blue');
+      grad2.addColorStop(1, 'white');
+      ctx.fillStyle = grad2;
+      ctx.beginPath();
+      ctx.arc(160, 125, 80, 0, Math.PI * 2);
+      ctx.fill();
+      
+      // Draw the letter "S" inside the circles
+      ctx.fillStyle = 'white';
+      ctx.font = 'bold 150px Arial';
+      ctx.fillText('S', 110, 175);
+    </script>
+  </body>
+</html>

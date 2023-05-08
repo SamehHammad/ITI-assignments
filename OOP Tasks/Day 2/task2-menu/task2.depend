@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678111953 source:d:\tasks\task1\main.cpp
+	<iostream>
+
+1678236715 source:d:\tasks\day 2\task2\main.cpp
+	<iostream>
+
+1678237056 source:d:\tasks\day 2\task2-menu\main.cpp
+	<iostream>
+
