@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form Validation Example</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Enter Your Info</h1>
+      <div id="validation"></div>
+      <form onsubmit="return validateForm()" action="./index2.html">
+        <input type="text" id="name" name="name" placeholder="Enter Your Name"/><br />
+
+        <input type="text" id="phone" name="phone" placeholder="Enter Your Phone Number"/><br />
+
+        <input type="text" id="mobile" name="mobile" placeholder="Enter Your Mobile Number"/><br />
+
+        <input type="text" id="email" name="email" placeholder="Enter Your Email"/><br />
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+    <script src="js/script1.js"></script>
+  </body>
+</html>

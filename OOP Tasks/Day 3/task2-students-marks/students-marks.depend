@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678111953 source:d:\tasks\task1\main.cpp
+	<iostream>
+
+1678236715 source:d:\tasks\day 2\task2\main.cpp
+	<iostream>
+
+1678283009 source:d:\tasks\day 3\task2\main.cpp
+	<iostream>
+	<vector>
+
+1678363269 source:d:\tasks\day 3\task2-students-marks\main.cpp
+	<iostream>
+	<algorithm>
+
+1678363269 source:d:\oop tasks\day 3\task2-students-marks\main.cpp
+	<iostream>
+	<algorithm>
+

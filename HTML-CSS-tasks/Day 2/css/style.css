@@ -1,0 +1,24 @@
+body {
+  background-color: pink;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.headers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.next-top {
+  display: flex;
+  justify-content: space-between;
+}
+.container p {
+}
+.copy {
+  text-align: center;
+}

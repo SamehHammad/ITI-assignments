@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678111953 source:d:\tasks\task1\main.cpp
+	<iostream>
+
+1678193533 source:d:\tasks\day 2\task1\main.cpp
+	<iostream>
+
+1678704013 source:d:\tasks\day 5\task1-10numbers\main.cpp
+	<iostream>
+	<algorithm>
+
+1678718430 source:d:\tasks\day 5\task2-employees\main.cpp
+	<iostream>
+	<string>
+
