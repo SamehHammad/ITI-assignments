@@ -1,0 +1,40 @@
+/* Style for paragraph elements */
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+/* Style for user input paragraph */
+p {
+  text-align: center;
+  font-size: 18px;
+}
+p span {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(240, 18, 18) !important;
+  text-align: center;
+}
+
+/* Style for input element */
+input {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 20px !important;
+  width: 50%;
+  display: block;
+  text-align: center;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+/* Style for input element when focused */
+input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px #007bff;
+}

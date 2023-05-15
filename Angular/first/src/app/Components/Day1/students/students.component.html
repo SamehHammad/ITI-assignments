@@ -1,0 +1,20 @@
+<div class="container">
+  <p class="firstLine">
+    S &nbsp; T &nbsp; U &nbsp; D &nbsp; E &nbsp; N &nbsp; T &nbsp; S &nbsp;
+  </p>
+  <table class="table table-fixed">
+    <thead>
+      <tr>
+        <th class="col-6 text-center">Name</th>
+        <th class="col-6 text-center">Age</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+    <tbody>
+      <tr *ngFor="let s of students">
+        <td class="col-6 text-center">{{ s.name }}</td>
+        <td class="col-6 text-center">{{ s.age }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

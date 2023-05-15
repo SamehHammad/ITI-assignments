@@ -1,0 +1,57 @@
+<div class="bg text-center">
+  <div class="centered mt-5">
+    <p class="firstLine">
+      R &nbsp; E &nbsp; G &nbsp; I &nbsp; S &nbsp; T &nbsp; E &nbsp; R &nbsp;
+    </p>
+
+    <p>
+      <input
+        class="InputStyle my-3"
+        placeholder="Enter Your Name ! "
+        style="font-family: Arial, FontAwesome"
+        type="text"
+        [(ngModel)]="name"
+      />
+      <!-- validation of name -->
+      <span *ngIf="NameLength; then trueBlock; else falseBlock"> </span>
+      <ng-template #falseBlock>
+        <div class="w-50 m-auto text-center" *ngIf="name">
+          <p class="text-danger">* Long Name X</p>
+        </div>
+      </ng-template>
+
+      <ng-template #trueBlock>
+        <div class="w-50 m-auto text-center">
+          <p class="text-success">* Name Valid ✔︎</p>
+        </div>
+      </ng-template>
+      <input
+        class="InputStyle my-3"
+        placeholder="Enter Your Age !"
+        style="font-family: Arial, FontAwesome"
+        type="text"
+        [(ngModel)]="age"
+      />
+
+      <!-- validation of age -->
+      <span *ngIf="AgeValid; then trueBlockAge; else falseBlockAge"> </span>
+      <ng-template #falseBlockAge>
+        <div class="w-50 m-auto text-center" *ngIf="age">
+          <p class="text-danger">* Age Not Valid X</p>
+        </div>
+      </ng-template>
+
+      <ng-template #trueBlockAge>
+        <div class="w-50 m-auto text-center">
+          <p class="text-success">* Age Valid ✔︎</p>
+        </div>
+      </ng-template>
+      <input
+        class="InputStyle btn btn-outline-secondary bg-dark mb-5"
+        value="ADD"
+        type="button"
+        (click)="AddStudent()"
+      />
+    </p>
+  </div>
+</div>
