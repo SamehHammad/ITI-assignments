@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  background-image: url(http://i.imgur.com/w16HASj.png);
+  background-size: 100% 100%;
+  background-position: top center;
+  text-align: center;
+}
