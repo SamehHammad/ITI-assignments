@@ -1,0 +1,51 @@
+<div class="container">
+  <p class="text-center mt-5">
+    S &nbsp; T &nbsp; U &nbsp; D &nbsp; E&nbsp; T&nbsp; S
+  </p>
+
+  <!--Table-->
+  <table class="table table-striped w-100">
+    <!--Table head-->
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Email</th>
+        <th>Check User</th>
+        <th>Update</th>
+        <th>Delete</th>
+      </tr>
+    </thead>
+    <!--Table head-->
+
+    <!--Table body-->
+    <tbody>
+      <tr class="table-info" *ngFor="let s of users">
+        <td>{{ s.name }}</td>
+        <td>{{ s.age }}</td>
+        <td>{{ s.email }}</td>
+        <td>
+          <a routerLink="/students/{{ s.id }}">Show Details</a>
+        </td>
+        <td>
+          <input
+            type="button"
+            value="Update"
+            class="btn btn-outline-success"
+            routerLink="/update/{{ s.id }}"
+          />
+        </td>
+        <td>
+          <input
+            type="button"
+            value="Delete"
+            class="btn btn-outline-danger"
+            (click)="delete(s.id)"
+          />
+        </td>
+      </tr>
+    </tbody>
+    <!--Table body-->
+  </table>
+  <!--Table-->
+</div>
