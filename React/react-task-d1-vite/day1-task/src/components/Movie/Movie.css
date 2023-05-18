@@ -9,7 +9,7 @@
 }
 
 .card {
-  background-color: rgba(17, 59, 55, 0.779);
+  background-color: rgba(12, 39, 36, 0.779);
   transform: rotate(10deg) skew(-10deg, -5deg);
   transition: 
   translate 0.5s 
@@ -17,14 +17,14 @@
   padding: 5px;
   border-radius: 15px;
   position: relative;
-  margin: 5px;
-  box-shadow: 5px 5px 25px 3px #060e0b;
+  margin: 20px 5px;
+  box-shadow: 5px 5px 25px 3px #0d2d21;
   border: 2px solid #299e77;
 }
 .card:hover {
   translate: 0 -5px;
   box-shadow: 5px 3px rgb(217 220 242 /75%) 10px 6px rgb(44 217 255 /50%) 15px
-    9px rgb(126 255 178 /25%);
+    9px rgba(10, 33, 19, 0.25);
 
 }
 .card p {
@@ -39,5 +39,5 @@ p span {
   display: block;
   font-size: 13px;
   line-height: 1.7;
-  color: #10b981;
+  color: #c8d5d0;
 }
