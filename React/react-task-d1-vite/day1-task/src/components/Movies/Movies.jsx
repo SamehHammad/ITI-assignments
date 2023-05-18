@@ -6,14 +6,12 @@ const Movies = () => {
     { id: 2, mvName: "Best of Enemies", director: "Robert Gordon", year: 2019 },
     { id: 3, mvName: "Twilight", director: "Catherine Hardwick", year: 2008 },
   ];
-  return (
-    <div>
-      {movies.map((m) => {
-        <h1>{m.mvName}</h1>;
-      })}
-    </div>
-    m
-  );
+  return <>
+    {movies.map(movie => (
+      <Movie {...movie} />
+    )
+    )}
+    </>
 };
 
 export default Movies;
