@@ -1,0 +1,14 @@
+.card {
+  width: 320px;
+  height: 170px;
+  background-color: #dcc2c2;
+  margin: 0 auto;
+  text-align:center;
+  margin-bottom: 5px;
+  box-shadow: 5px 3px 25px 5px rgb(96, 42, 42);
+
+}
+span{
+  color:red;
+  letter-spacing: 2px;
+}

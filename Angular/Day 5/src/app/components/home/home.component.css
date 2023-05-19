@@ -1,0 +1,12 @@
+td,
+th {
+  text-align: center;
+  border: 2px solid #fefefe !important;
+}
+* {
+  color: white;
+}
+thead {
+  background-color: #009688;
+  border: 2px solid #fefefe;
+}

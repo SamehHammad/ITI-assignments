@@ -1,0 +1,13 @@
+.inp {
+  height: 35px;
+  border: 2px solid #ffffff;
+  background-color: #fff3;
+  color: white;
+}
+.inp::placeholder {
+  color: white;
+}
+label {
+  color: white;
+  font-weight: bold;
+}
