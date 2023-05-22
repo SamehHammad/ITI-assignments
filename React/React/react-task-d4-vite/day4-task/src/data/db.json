@@ -1,0 +1,158 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "Title": "The Lion King",
+      "Year": "2019",
+      "Description": " ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+      "Runtime": "118 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 2,
+      "Title": "Mowgli: Legend of the Jungle",
+      "Year": "2018",
+      "Description": "Lorem ipsum  ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+      "Runtime": "104 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": 3,
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Description": "Lorem ipsum d ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+      "Runtime": "115 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 4,
+      "Title": "John Wick",
+      "Year": "2014",
+      "Description": "L ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervalsconsectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "101 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 5,
+      "Title": "The Notebook",
+      "Year": "2004",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "123 min",
+      "Poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/006ae697376913.5ec3cd65d7c56.jpg"
+    },
+    {
+      "id": 6,
+      "Title": "Operation Fortunek",
+      "Year": "2022",
+      "Description": "Lo ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "123 min",
+      "Poster": "https://media0018.elcinema.com/uploads/_315x420_484888f7ab6e01dca59400f2239a6a705eba8cdba9c431e8593e5b89a8fa5519.jpg"
+    },
+    {
+      "id": 7,
+      "Title": "The Lion King",
+      "Year": "2019",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "118 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 8,
+      "Title": "Mowgli: Legend of the Jungle",
+      "Year": "2018",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "104 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": 9,
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "115 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 10,
+      "Title": "John Wick",
+      "Year": "2014",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "101 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 11,
+      "Title": "The Notebook",
+      "Year": "2004",
+
+      "Runtime": "123 min",
+      "Poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/006ae697376913.5ec3cd65d7c56.jpg"
+    },
+    {
+      "id": 12,
+      "Title": "Operation Fortunek",
+      "Year": "2022",
+
+      "Runtime": "123 min",
+      "Poster": "https://media0018.elcinema.com/uploads/_315x420_484888f7ab6e01dca59400f2239a6a705eba8cdba9c431e8593e5b89a8fa5519.jpg"
+    },
+    {
+      "id": 13,
+      "Title": "The Lion King",
+      "Year": "2019",
+
+      "Runtime": "118 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg"
+    },
+    {
+      "id": 14,
+      "Title": "Mowgli: Legend of the Jungle",
+      "Year": "2018",
+
+      "Runtime": "104 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg"
+    },
+    {
+      "id": 15,
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "115 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": 16,
+      "Title": "John Wick",
+      "Year": "2014",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+
+      "Runtime": "101 min",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": 17,
+      "Title": "The Notebook",
+      "Year": "2004",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet,  ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals",
+
+      "Runtime": "123 min",
+      "Poster": "https://ih1.redbubble.net/image.1778611552.3850/fposter,small,wall_texture,product,750x1000.jpg"
+    },
+    {
+      "id": 18,
+      "Title": "Operation Fortunek",
+      "Year": "2022",
+      "Description": "Lorem  ensuring that each frame remains still during its short projection time. A rotating shutter causes stroboscopic intervals of darkness, but the viewer does not notice the interruptions due to flicker fusion. The apparent motion on the screen is the result of the fact that the visual sense cannot discern the individual images at high speeds, so the impressions of the images blend with the dark intervals adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis amet, consectetur adipisicing elit.Magnam, asperiores debitis at voluptatum quisquam omnis",
+      "Runtime": "123 min",
+      "Poster": "https://media0018.elcinema.com/uploads/_315x420_484888f7ab6e01dca59400f2239a6a705eba8cdba9c431e8593e5b89a8fa5519.jpg"
+    }
+  ]
+}
