@@ -1,0 +1,14 @@
+.mov-img{
+  height: 200px !important;
+  border-radius: 10%;
+}
+.card{
+  background-color: rgba(130, 115, 114, 0.628)  !important;
+  color: aliceblue;
+}
+.title{
+  color: rgb(240, 241, 242) !important;
+  font-weight: bold !important;
+  font-style: italic;
+  
+}

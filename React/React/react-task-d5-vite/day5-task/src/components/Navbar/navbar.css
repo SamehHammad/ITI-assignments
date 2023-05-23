@@ -1,0 +1,22 @@
+@media screen and (min-width: 600px) {
+  .navv {
+    height: 50px;
+    margin-bottom: 200px !important;
+  }
+}
+.fav{
+    position: relative;
+}
+.fav span {
+    position: absolute;
+  background-color: red;
+  color: aliceblue;
+  width: 20px;
+  height: 20px;
+  border-radius: 50% 50% 50% 1%;
+  text-align: center;
+top: -2px;
+left: 80px;
+font-size: 15px;
+
+}
