@@ -1,0 +1,98 @@
+export const COLORS = [
+  {
+    name: "INDIANRED",
+    hex: "#CD5C5C",
+    rgb: "RGB(205, 92, 92)",
+    families: ["red", "brown"],
+  },
+  {
+    name: "LIGHTCORAL",
+    hex: "#F08080",
+    rgb: "RGB(240, 128, 128)",
+    families: ["red", "pink", "coral", "light"],
+  },
+  {
+    name: "SALMON",
+    hex: "#FA8072",
+    rgb: "RGB(250, 128, 114)",
+    families: ["red", "pink", "orange", "salmon"],
+  },
+  {
+    name: "DARKSALMON",
+    hex: "#E9967A",
+    rgb: "RGB(233, 150, 122)",
+    families: ["red", "pink", "orange", "salmon", "dark"],
+  },
+  {
+    name: "LIGHTSALMON",
+    hex: "#FFA07A",
+    rgb: "RGB(255, 160, 122)",
+    families: ["red", "pink", "orange", "salmon", "light"],
+  },
+  {
+    name: "CRIMSON",
+    hex: "#DC143C",
+    rgb: "RGB(220, 20, 60)",
+    families: ["red"],
+  },
+  {
+    name: "RED",
+    hex: "#FF0000",
+    rgb: "RGB(255, 0, 0)",
+    families: ["red"],
+  },
+  {
+    name: "DARKRED",
+    hex: "#8B0000",
+    rgb: "RGB(139, 0, 0)",
+    families: ["red", "dark"],
+  },
+  {
+    name: "PINK",
+    hex: "#FFC0CB",
+    rgb: "RGB(255, 192, 203)",
+    families: ["pink"],
+  },
+  {
+    name: "LIGHTPINK",
+    hex: "#FFB6C1",
+    rgb: "RGB(255, 182, 193)",
+    families: ["pink", "light"],
+  },
+  {
+    name: "HOTPINK",
+    hex: "#FF69B4",
+    rgb: "RGB(255, 105, 180)",
+    families: ["pink", "hot"],
+  },
+  {
+    name: "DEEPPINK",
+    hex: "#FF1493",
+    rgb: "RGB(255, 20, 147)",
+    families: ["pink", "deep"],
+  },
+  {
+    name: "MEDIUMVIOLETRED",
+    hex: "#C71585",
+    rgb: "RGB(199, 21, 133)",
+    families: ["pink", "purple", "violet", "medium"],
+  },
+  {
+    name: "PALEVIOLETRED",
+    hex: "#DB7093",
+    rgb: "RGB(219, 112, 147)",
+    families: ["pink", "pale", "violet"],
+  },
+  {
+    name: "CORAL",
+    hex: "#FF7F50",
+    rgb: "RGB(255, 127, 80)",
+    families: ["orange", "coral"],
+  },
+  {
+    name: "TOMATO",
+    hex: "#FF6347",
+    rgb: "RGB(255, 99, 71",
+    families: ["orange", "red"],
+  },
+];
