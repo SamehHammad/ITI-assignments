@@ -9,8 +9,7 @@ const App = () => {
   const [users, setUsers] = useState([]);
   const navigate = useNavigate();
   const addUser = (newUser) => {
-    users.push(newUser);
-    setUsers([...users]);
+    
     console.log(users);
     navigate("/");
   };
